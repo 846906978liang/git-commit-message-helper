@@ -41,10 +41,10 @@ public class CommitPanel {
                 settings,
                 (TypeAlias) changeType.getSelectedItem(),
                 (String) changeScope.getText().trim(),
-                shortDescription.getText().trim(),
-                longDescription.getText().trim(),
-                closedIssues.getText().trim(),
-                breakingChanges.getText().trim()
+                shortDescription.getText().trim(),"1","",""
+//                longDescription.getText().trim(),
+//                closedIssues.getText().trim(),
+ //               breakingChanges.getText().trim()
         );
     }
 
