@@ -1,8 +1,8 @@
 <idea-plugin>
-    <id>commit-message-helper-idea-plugin</id>
-    <name>Git Commit Message Helper</name>
-    <vendor email="13103779727@163.com" url="https://github.com/AutismSuperman">FuLinLin</vendor>
-    <version>1.0.0</version>
+    <id>commit-message-helper-idea-plugin-new</id>
+    <name>Git Commit Message Helper new</name>
+    <vendor email="846906978@qq.com" url="https://github.com/846906978liang">hualiang</vendor>
+    <version>1.0.1</version>
     <description>
         <![CDATA[
              <div>
