@@ -17,6 +17,7 @@
                 <ul>
                     <li>一个可帮助您标准化提交内容的插件</li>
                     <li>该插件是源自git-commit-template的加强版,添加一系列个性化的配置</li>
+                    <li>该插件是源自git-commit-template的加强版,修改了提交样式，关联jira</li>
                 </ul>
             </div>
             <div>
