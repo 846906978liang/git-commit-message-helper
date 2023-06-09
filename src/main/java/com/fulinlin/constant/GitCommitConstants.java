@@ -6,5 +6,5 @@ package com.fulinlin.constant;
  * @create: 2019-12-08 11:37
  **/
 public class GitCommitConstants {
-    public static final String DEFAULT_TEMPLATE = "#if($scope)${scope}#end,#if($type)${type}#end:#if($subject)${subject}#end";
+    public static final String DEFAULT_TEMPLATE = "server-#if($scope)${scope}#end,#if($type)${type}#end:#if($subject)${subject}#end";
 }
